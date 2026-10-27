@@ -1,0 +1,54 @@
+2026-10-12 10:22:32,649  INFO  Backup saved (startup): E:\Thalapathi Studio\ShopTracker11\ShopTracker11\ShopTrackerServer\data\backups\shop_tracker_2026-10-12_102232.db
+2026-10-12 10:22:32,649  INFO  ==============================================================
+2026-10-12 10:22:32,649  INFO  Thalapathi Studio server 1.0 is running.  Timezone: Asia/Kolkata
+2026-10-12 10:22:32,649  INFO  Database: E:\Thalapathi Studio\ShopTracker11\ShopTracker11\ShopTrackerServer\data\shop_tracker.db
+2026-10-12 10:22:32,649  INFO  In the app on each PC, enter the server address as ONE of:
+2026-10-12 10:22:32,667  INFO        http://10.3.122.88:8000
+2026-10-12 10:22:32,667  INFO  ==============================================================
+2026-10-12 10:23:14,783  INFO  Login OK: Worker 1 (worker)
+2026-10-12 10:24:18,431  INFO  Login OK: Admin (admin)
+2026-10-12 10:25:26,983  INFO  Login OK: Worker 2 (worker)
+2026-10-12 10:26:07,176  INFO  Login OK: Admin (admin)
+2026-10-12 11:18:30,320  INFO  Failed login for 'Worker 1'
+2026-10-12 11:18:35,591  INFO  Login OK: Worker 1 (worker)
+2026-10-13 15:09:26,621  INFO  Backup saved (startup): E:\Thalapathi Studio\ShopTracker11\ShopTracker11\ShopTrackerServer\data\backups\shop_tracker_2026-10-13_150926.db
+2026-10-13 15:09:26,624  INFO  ==============================================================
+2026-10-13 15:09:26,626  INFO  Thalapathi Studio server 1.0 is running.  Timezone: Asia/Kolkata
+2026-10-13 15:09:26,626  INFO  Database: E:\Thalapathi Studio\ShopTracker11\ShopTracker11\ShopTrackerServer\data\shop_tracker.db
+2026-10-13 15:09:26,626  INFO  In the app on each PC, enter the server address as ONE of:
+2026-10-13 15:09:26,636  INFO        http://10.41.186.24:8000
+2026-10-13 15:09:26,636  INFO  ==============================================================
+2026-10-13 15:11:07,948  INFO  Login OK: Admin (admin)
+2026-10-13 15:13:11,246  INFO  Failed login for 'Worker 1'
+2026-10-13 15:13:22,621  INFO  Login OK: Worker 1 (worker)
+2026-10-16 15:56:04,879  INFO  Backup saved (startup): E:\Thalapathi Studio\ShopTracker11\ShopTracker11\ShopTrackerServer\data\backups\shop_tracker_2026-10-16_155604.db
+2026-10-16 15:56:04,880  INFO  ==============================================================
+2026-10-16 15:56:04,880  INFO  Thalapathi Studio server 1.0 is running.  Timezone: Asia/Kolkata
+2026-10-16 15:56:04,880  INFO  Database: E:\Thalapathi Studio\ShopTracker11\ShopTracker11\ShopTrackerServer\data\shop_tracker.db
+2026-10-16 15:56:04,883  INFO  In the app on each PC, enter the server address as ONE of:
+2026-10-16 15:56:04,893  INFO        http://10.2.0.2:8000
+2026-10-16 15:56:04,893  INFO        http://10.30.155.24:8000
+2026-10-16 15:56:04,893  INFO  ==============================================================
+2026-10-16 15:58:56,098  INFO  Backup saved (startup): E:\Thalapathi Studio\ShopTracker11\ShopTracker11\ShopTrackerServer\data\backups\shop_tracker_2026-10-16_155856.db
+2026-10-16 15:58:56,098  INFO  ==============================================================
+2026-10-16 15:58:56,105  INFO  Thalapathi Studio server 1.0 is running.  Timezone: Asia/Kolkata
+2026-10-16 15:58:56,105  INFO  Database: E:\Thalapathi Studio\ShopTracker11\ShopTracker11\ShopTrackerServer\data\shop_tracker.db
+2026-10-16 15:58:56,105  INFO  In the app on each PC, enter the server address as ONE of:
+2026-10-16 15:58:56,114  INFO        http://10.2.0.2:8000
+2026-10-16 15:58:56,114  INFO        http://10.30.155.24:8000
+2026-10-16 15:58:56,114  INFO  ==============================================================
+2026-10-16 16:01:50,441  INFO  Failed login for 'Worker 1'
+2026-10-16 16:01:54,077  INFO  Login OK: Worker 1 (worker)
+2026-10-16 16:03:01,544  INFO  Login OK: Admin (admin)
+2026-10-16 16:04:32,436  INFO  Login OK: Worker 1 (worker)
+2026-10-16 16:04:57,764  INFO  Login OK: Admin (admin)
+2026-10-16 16:15:33,111  INFO  Login OK: Worker 1 (worker)
+2026-10-18 10:02:42,209  INFO  Backup saved (startup): E:\Thalapathi Studio\ShopTracker11\ShopTracker11\ShopTrackerServer\data\backups\shop_tracker_2026-10-18_100242.db
+2026-10-18 10:02:42,214  INFO  ==============================================================
+2026-10-18 10:02:42,216  INFO  Thalapathi Studio server 1.0 is running.  Timezone: Asia/Kolkata
+2026-10-18 10:02:42,216  INFO  Database: E:\Thalapathi Studio\ShopTracker11\ShopTracker11\ShopTrackerServer\data\shop_tracker.db
+2026-10-18 10:02:42,216  INFO  In the app on each PC, enter the server address as ONE of:
+2026-10-18 10:02:42,237  INFO        http://10.41.186.24:8000
+2026-10-18 10:02:42,237  INFO  ==============================================================
+2026-10-18 10:05:56,998  INFO  Failed login for 'Worker 2'
+2026-10-18 10:05:59,763  INFO  Login OK: Worker 2 (worker)
